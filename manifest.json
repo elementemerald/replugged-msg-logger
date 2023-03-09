@@ -1,16 +1,16 @@
 {
-  "id": "com.partur.MessageLogger",
+  "id": "dev.ryand.MessageLogger",
   "name": "Message Logger",
   "description": "Message logger",
   "author": {
-    "name": "partur",
-    "discordID": "497770123604525057",
-    "github": "partur-dev"
+    "name": "ryand",
+    "discordID": "660292639412846621",
+    "github": "elementemerald"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "partur-dev/replugged-msg-logger"
+    "id": "elementemerald/replugged-msg-logger"
   },
   "license": "MIT",
   "type": "replugged-plugin",
