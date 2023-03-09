@@ -1,7 +1,7 @@
-.deleted {
-  filter: grayscale(1);
+:root {
+  --deleted-color: #f357571a;
 }
 
-.deleted:hover {
-  filter: grayscale(0);
+.deleted {
+  background-color: var(--deleted-color) !important;
 }
